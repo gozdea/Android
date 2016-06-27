@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sUser">User Name</string>
+    <string name="sPass">Password</string>
+    <string name="sSbmt">Submit</string>
+    <string name="sCncl">Cancel</string>
+
+</resources>
